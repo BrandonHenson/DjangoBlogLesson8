@@ -1,2 +1,1 @@
-# DjangoBlogLesson8
-Facebook and RSS
+# Djangoblog2Lesson8
